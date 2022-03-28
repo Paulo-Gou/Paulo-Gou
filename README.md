@@ -1,6 +1,6 @@
 ### OlÁ! Chamo-me Paulo Gouveia 👋
 
-- 🔭 Trabalho com full-stack
+- 🔭 Sou programador full-stack
 - 🌱 Estudo web development e software development
 - 👯 Tenho 18 anos
 - 🤔 Aqui poderás encontrar os meus projetos pessoais
