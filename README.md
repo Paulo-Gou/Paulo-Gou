@@ -2,7 +2,7 @@
 
 - 🔭 Sou programador full-stack
 - 🌱 Estudo web development e software development
-- 👯 Tenho 18 anos
+- 👯 Tenho 19 anos
 - 🤔 Aqui poderás encontrar os meus projetos pessoais
 <div align="center">
   <a href="https://github.com/Paulo-Gou">
